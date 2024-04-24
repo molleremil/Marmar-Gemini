@@ -41,33 +41,3 @@ if st.button('Check Interactions'):
         st.warning('Please enter the required information to continue.')
 
 
-
-#Footer and all
-footer="""<style>
-a:link , a:visited{
-color: #B7B7B7;
-background-color: transparent;
-text-decoration: underline;
-}
-
-a:hover,  a:active {
-color: #102755;
-background-color: transparent;
-text-decoration: underline;
-}
-
-.footer {
-position:fixed;
-left: 0;
-bottom: 0;
-width: 100%;
-background-color: #919FB6;
-color: #fffff;
-text-align: center;
-}
-</style>
-<div class="footer">
-<p> Developed with ❤️ by <a href="https://github.com/ahrufcodes" target="_blank">ahruf</a> </p>
-</div>
-"""
-st.markdown(footer,unsafe_allow_html=True)
