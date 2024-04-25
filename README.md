@@ -1,6 +1,6 @@
 # Marmar: Making Every Dose Safer 🌟
 
-**APP live on HuggingFace**: https://huggingface.co/spaces/marmarai/marmar
+**🤗 APP live on HuggingFace**: https://huggingface.co/spaces/marmarai/marmar
 
 >Welcome to Marmar, a cutting-edge application designed to empower individuals by providing vital ?>information on potential drug interactions. Built with the power of OpenAI's GPT-3.5-turbo and the >simplicity of Streamlit, Marmar offers personalized advice to help you manage your medications safely.
 
